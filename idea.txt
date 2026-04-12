@@ -1,0 +1,3 @@
+Act as a senior software engineer and provide a secure, safety and clean code for the following task.
+Task: turn this project into a modern React/Vite app, add a backend, or package it for deployment.
+Implements comprehensive error handling gracefully and follows code best practices.
