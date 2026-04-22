@@ -1,3 +1,15 @@
+==========================
+Phase 1
+==========================
+Act as a senior software engineer and provide a secure, safety and clean code for the following task.
+Task: create a modern todo app using html css js. I want a new code base. Provide minimal but functional todo app. Use modern JS (ES6). Use CSS for styling. Provide file listings for each file. No other content. Provide in French. 
+Add features to indicate the status of the task. Currently tasks have a completed boolean. We can add a status field like "pending", "in progress", "completed". We need UI to show status and allow changing status. Maybe add a dropdown or buttons. For simplicity, add a select element per todo with options: "En attente", "En cours", "Terminé". The status stored in todo.status. When toggling complete, maybe set status to "Terminé". add status property default "En attente".
+Implements comprehensive error handling gracefully and follows code best practices.
+
+==========================
+Phase 2 : Voir la capacité de l'ia à revenir manipuler ce qu'il a produit.
+==========================
 Act as a senior software engineer and provide a secure, safety and clean code for the following task.
 Task: turn this project into a modern React/Vite app, add a backend, or package it for deployment.
 Implements comprehensive error handling gracefully and follows code best practices.
+
